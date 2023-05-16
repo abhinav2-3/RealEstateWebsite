@@ -1,6 +1,16 @@
-# RealEstate Landing Website
+# Real Estate Landing Page
 
-# Getting Started with Create React App
+This is a responsive React.js project for a Real Estate Landing Page. It utilizes various libraries, including Framer Motion and Swiper, to create an interactive and visually appealing user interface. The landing page is designed to showcase real estate properties and provide a seamless browsing experience.
+
+## Features
+
+- Responsive design: The landing page is optimized for various screen sizes, ensuring a consistent and user-friendly experience across devices.
+- Framer Motion: Framer Motion library is used to add smooth animations and transitions, enhancing the visual appeal and interactivity of the page.
+- Swiper: Swiper library is integrated to create a responsive and touch-enabled carousel for showcasing property images or other relevant content.
+
+## You can checkout this website from - https://realestate-abhinav2-3.vercel.app/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
